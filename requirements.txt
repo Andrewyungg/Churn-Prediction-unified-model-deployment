@@ -1,5 +1,6 @@
-joblib==1.5.1
+joblib
 mlflow==3.9.0
 numpy==1.26.4
 optuna==4.6.0
 pandas==2.3.3
+streamlit==1.32.2
